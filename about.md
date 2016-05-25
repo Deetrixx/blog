@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am determined web and mobile developer,trying to improve the the society through my code.
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I mainly focus responsiveness on websites and mobile apps.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dennisgithua30@gmail.com](mailto:email@domain.com)
