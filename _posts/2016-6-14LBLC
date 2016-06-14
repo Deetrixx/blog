@@ -1,0 +1,18 @@
+---
+layout: post
+title: Laptop Battery Life Cycle.
+---
+
+We as software engineers and developers our laptops are the most crucial piece of equipment, basically its like our child,needs to be taken care of.
+Here is a tip that i hope may help you maintain your machines battery life cycle.
+
+Should I remove the battery when A/C is plugged in?
+Many laptop users have this question and we will answer it right now: 
+The answer is: YES and NO, it depends on the situation.
+Full battery discharges (until laptop power shutdown, 0%) should be avoided, because this stresses the battery a lot and can even damage it. It's recommended to perform partial discharges to capacity levels of 20~30% and frequent charges, instead of performing a full discharging followed by a full charging.
+Having a battery fully charged and the laptop plugged in is not harmful, because as soon as the charge level reaches 100% the battery stops receiving charging energy and this energy is bypassed directly to the power supply system of the laptop.
+However there's a disadvantage in keeping the battery in its socket when the laptop is plugged in, but only if it's currently suffering from excessive heating caused by the laptop hardware.
+ So:
+- In a normal usage, if the laptop doesn't get too hot (CPU and Hard Disk around 40ºC to 50ºC) the battery should remain in the laptop socket;
+- In an intensive usage which leads to a large amount of heat produced (i.e. Games, temperatures above 60ºC) the battery should be removed from the socket in order to prevent unwanted heating.
+The heat, among the fact that it has 100% of charge, is the great enemy of the lithium battery and not the plug, as many might think so. 
